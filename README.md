@@ -12,3 +12,4 @@ $ cd React-Redux-Weather
 ```
 #### Not Familiar with Git?
 > Click [here](https://github.com/MohdRafiUddin/React-Redux-Weather/archive/master.zip) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Hi 
